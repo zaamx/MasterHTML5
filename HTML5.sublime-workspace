@@ -1,0 +1,713 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"s",
+				"script	Tag"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"alcaldes",
+				"alcaldes-red"
+			],
+			[
+				"alca",
+				"alcaldes-ligthgray"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"list-s",
+				"list-style-type"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"border",
+				"border-left"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"alcal",
+				"alcaldes-ligthgray"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"revista",
+				"revista-footer"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"list",
+				"list-d	list-style-type: disc;"
+			],
+			[
+				"categor",
+				"categoria"
+			],
+			[
+				"init",
+				"initOfertas"
+			],
+			[
+				"ofertas",
+				"ofertasLista"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6826,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) ",
+			" import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/alonso/repos/EBFPHP/application/views/layout/public/footer.php",
+		"/Users/alonso/repos/EBFPHP/application/views/empresa/view_index.php",
+		"/Users/alonso/repos/EBFPHP/application/views/layout/admin/header.php",
+		"/Users/alonso/repos/EBFPHP/application/views/layout/public/top.php",
+		"/Users/alonso/repos/EBFPHP/application/views/sucursal/view_nueva.php",
+		"/Users/alonso/repos/EBFPHP/application/views/buscar/view_buscar_ofertas.php",
+		"/Users/alonso/repos/EBFPHP/application/views/buscar/view_buscar_empresas.php",
+		"/Users/alonso/repos/EBFPHP/application/views/empresa/view_nueva_empresa.php",
+		"/Users/alonso/repos/EBFPHP/library_front/js/libs/jquery.validationEngine-es.js",
+		"/Users/alonso/repos/EBFPHP/library_front/less/style.less",
+		"/Users/alonso/repos/EBFPHP/application/views/buscar/view_organizadores.php",
+		"/Users/alonso/repos/EBFPHP/application/views/layout/public/header.php",
+		"/Users/alonso/repos/EBFPHP/application/views/layout/admin/top.php",
+		"/Users/alonso/repos/EBFPHP/library/less/style.less",
+		"/Users/alonso/repos/EBFPHP/app.yaml",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/header.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/css/style.css",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/less/_base.less",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/home.php",
+		"/Users/alonso/repos/alcaldes/wp-includes/SimplePie/Cache/Base.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/less/_mixins.css",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/.gitignore",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/widgets/widget.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/functions.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/single-aniversarios.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/single-foros.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/footer.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/custom-post-type.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/less/_mixins.less",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/less/_grid.css",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/less/style.less",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/less/_768up.less",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/single.php",
+		"/Users/alonso/repos/alcaldes/wp-includes/theme-compat/header.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/sidebar-especiales.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/archive-foros.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/sidebar.php",
+		"/Users/alonso/repos/alcaldes/wp-includes/functions.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/js/scripts.js",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/page.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/css/flexslider.css",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/bones.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/page-fullwidtth.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/comments.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/archive.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/archive-aniversarios.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/library/js/libs/tab.js",
+		"/Users/alonso/repos/alcaldes/wp-includes/theme-compat/footer.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/sidebar-articulo.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/search.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/share.php",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/alcaldes-mac.sublime-project",
+		"/Users/alonso/repos/alcaldes/wp-content/themes/alcaldes/page-custom.php",
+		"/Users/alonso/repos/alcaldes/wp-config.php",
+		"/Volumes/NO NAME/j2xml150620130912170744.xml",
+		"/Users/alonso/ebf2013/layout/index.html",
+		"/Users/alonso/ebf2013/static/busqueda-de-ofertas.html.back",
+		"/Users/alonso/ebf2013/library/js/scripts.js",
+		"/Users/alonso/ebf2013/static/contacto.html",
+		"/Users/alonso/ebf2013/templates/ofadm.html",
+		"/Users/alonso/ebf2013/scripts/ofertas.js",
+		"/Users/alonso/ebf2013/scripts/ofertas_v01.js",
+		"/Users/alonso/ebf2013/app.yaml.example",
+		"/Users/alonso/id_rsa.pub"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/alonso/repos/alcaldes/wp-content/plugins/paid-memberships-pro-dev"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"verifique su rfc",
+			"#searchsubmit",
+			"suscr",
+			"sidebar",
+			".header ",
+			"article-footer",
+			"article",
+			"'post__not_in' => get_option('sticky_posts')",
+			"752",
+			"reset",
+			"mas",
+			"This content is for",
+			"This content is for Pagado members only",
+			"alert",
+			"show",
+			"expanded",
+			"jsNoBrandAdState",
+			"checkCookie",
+			"sidebar-magazine",
+			"sidebar-especiales",
+			"sidebar",
+			"sidebar-especiales",
+			"checkCookie",
+			"article",
+			"single",
+			"#mas-leido",
+			"aniversario",
+			"aniversarios",
+			"mslcn_footsoc_widget",
+			"eembed",
+			";\n",
+			"contact",
+			"}\n",
+			"@bones-pink",
+			"widget",
+			"revista",
+			"noticias",
+			";\n",
+			"<span>i</span>",
+			"'",
+			"‘",
+			"}\n",
+			"blog",
+			"a-footer",
+			"twe",
+			"iF-Twe",
+			"category",
+			"revista",
+			"mas-leido",
+			"post_thumbnail",
+			"icon-shares",
+			"aniversarios",
+			"<i",
+			"<img src=\"\"",
+			">)\n",
+			"initsu",
+			"icon-ta",
+			"ver-",
+			"micrositios",
+			"post",
+			"initempresas",
+			"ofertas",
+			"v01",
+			"wso",
+			"get"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'ignore_sticky_posts' => 1",
+			"expanded2",
+			"jsNoBrandAdState2",
+			"checkCookie2",
+			"foro",
+			"foros",
+			"alcaldes_destacados",
+			"@alcaldes-red",
+			"@alcaldes-gray",
+			"<span></span>",
+			"\"",
+			"'",
+			"anuncios",
+			"<img src=\"http://placehold.it/300x350\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6826,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "HTML5.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"style",
+				"library_front/less/style.less"
+			],
+			[
+				"bottom",
+				"application/views/layout/admin/bottom.php"
+			],
+			[
+				"footer",
+				"application/views/layout/public/footer.php"
+			],
+			[
+				"buscar",
+				"application/views/buscar/view_buscar_empresas.php"
+			],
+			[
+				"view_",
+				"application/views/buscar/view_organizadores.php"
+			],
+			[
+				"sty",
+				"library_front/less/style.less"
+			],
+			[
+				"nueva",
+				"application/views/empresa/view_nueva_empresa.php"
+			],
+			[
+				"top",
+				"application/views/layout/public/top.php"
+			],
+			[
+				"_index",
+				"application/views/empresa/view_index.php"
+			],
+			[
+				"header",
+				"application/views/layout/admin/header.php"
+			],
+			[
+				"stye",
+				"library_front/less/style.less"
+			],
+			[
+				"_bas",
+				"alcaldes/wp-content/themes/alcaldes/library/less/_base.less"
+			],
+			[
+				"768",
+				"alcaldes/wp-content/themes/alcaldes/library/less/_768up.less"
+			],
+			[
+				"home",
+				"alcaldes/wp-content/themes/alcaldes/home.php"
+			],
+			[
+				"hom",
+				"alcaldes/wp-content/themes/alcaldes/home.php"
+			],
+			[
+				"mixi",
+				"alcaldes/library/less/_mixins.css"
+			],
+			[
+				"76",
+				"alcaldes/library/less/_768up.less"
+			],
+			[
+				"base",
+				"alcaldes/library/less/_base.less"
+			],
+			[
+				"_base",
+				"alcaldes/wp-content/themes/alcaldes/library/less/_base.less"
+			],
+			[
+				"grid",
+				"alcaldes/library/less/_grid.less"
+			],
+			[
+				"fle",
+				"alcaldes/library/css/flexslider.css"
+			],
+			[
+				"scr",
+				"alcaldes/library/js/scripts.js"
+			],
+			[
+				"func",
+				"alcaldes/functions.php"
+			],
+			[
+				"mixin",
+				"alcaldes/library/less/_mixins.less"
+			],
+			[
+				"git",
+				"alcaldes/.gitignore"
+			],
+			[
+				"head",
+				"alcaldes/header.php"
+			],
+			[
+				"less",
+				"alcaldes/library/less/ie.less"
+			],
+			[
+				"sing",
+				"alcaldes/single.php"
+			],
+			[
+				"7",
+				"alcaldes/wp-content/themes/alcaldes/library/less/_768up.less"
+			],
+			[
+				"single",
+				"alcaldes/wp-content/themes/alcaldes/single-aniversarios.php"
+			],
+			[
+				"heade",
+				"alcaldes/header.php"
+			],
+			[
+				"",
+				"alcaldes/wp-content/themes/alcaldes/library/less/_768up.less"
+			],
+			[
+				"_78",
+				"alcaldes/wp-content/themes/alcaldes/library/less/_768up.less"
+			],
+			[
+				"espec",
+				"alcaldes/wp-content/themes/alcaldes/sidebar-especiales.php"
+			],
+			[
+				"especia",
+				"alcaldes/sidebar-especiales.php"
+			],
+			[
+				"_7",
+				"alcaldes/wp-content/themes/alcaldes/library/less/_768up.less"
+			],
+			[
+				"custom-",
+				"alcaldes/library/custom-post-type.php"
+			],
+			[
+				"side",
+				"alcaldes/sidebar.php"
+			],
+			[
+				"single-",
+				"alcaldes/single-aniversarios.php"
+			],
+			[
+				"widget.php",
+				"alcaldes/library/widgets/widget.php"
+			],
+			[
+				"aniver",
+				"alcaldes/wp-content/themes/alcaldes/single-aniversarios.php"
+			],
+			[
+				"page-",
+				"alcaldes/wp-content/themes/alcaldes/page-fullwidtth.php"
+			],
+			[
+				"page",
+				"alcaldes/wp-content/themes/alcaldes/page.php"
+			],
+			[
+				"arch",
+				"alcaldes/archive.php"
+			],
+			[
+				"comments",
+				"alcaldes/comments.php"
+			],
+			[
+				"_bse",
+				"alcaldes/wp-content/themes/alcaldes/library/less/_base.less"
+			],
+			[
+				"_mixins",
+				"alcaldes/library/less/_mixins.less"
+			],
+			[
+				"_mixi",
+				"alcaldes/library/less/_mixins.css"
+			],
+			[
+				"_76",
+				"alcaldes/library/less/_768up.less"
+			],
+			[
+				"bones",
+				"alcaldes/wp-content/themes/alcaldes/library/bones.php"
+			],
+			[
+				"sidebar",
+				"alcaldes/sidebar.php"
+			],
+			[
+				"tabs",
+				"alcaldes/library/js/libs/tab.js"
+			],
+			[
+				"scri",
+				"alcaldes/library/js/scripts.js"
+			],
+			[
+				"functio",
+				"alcaldes/functions.php"
+			],
+			[
+				"submit",
+				"alcaldes/alcaldes-mac.sublime-project"
+			],
+			[
+				"singl",
+				"alcaldes/wp-content/themes/alcaldes/single.php"
+			],
+			[
+				"fles",
+				"alcaldes/library/css/flexslider.css"
+			],
+			[
+				"cust",
+				"library/custom-post-type.php"
+			],
+			[
+				"funct",
+				"functions.php"
+			],
+			[
+				"te",
+				"static/test_oferta_adm.html"
+			],
+			[
+				"test_ofer",
+				"static/test_oferta.html"
+			],
+			[
+				"inde",
+				"layout/index.html"
+			],
+			[
+				"index",
+				"static/index2.html"
+			],
+			[
+				"script",
+				"library/js/scripts.js"
+			],
+			[
+				"ofertas",
+				"scripts/ofertas_v01.js"
+			],
+			[
+				"aofadm",
+				"templates/ofadm.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
