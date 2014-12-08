@@ -1,40 +1,44 @@
 /******************************************************************
 Stylesheet: Main Stylesheet
 ******************************************************************/
+@import "libs/bootstrap-3/mixins.less";
+@import "libs/bootstrap-3/variables.less";
 
 
 //
 // IMPORTING STYLES
 //
 
-// styles in base.less
-@import "_base.less";
+// Estilos Base
+@import "_xs-base.less";
 
 
 @media only screen and (min-width: 481px) {
 
-	// styles in 481up.less
-	@import "_481up.less";
+	// styles in  481up.less
+	@import "_xs-481up.less";
 
 } // end of media query
 
 @media only screen and (min-width: 768px) {
 
 	// styles in 768up.less
-	@import "_768up.less";
+	@import "_sm-768up.less";
 
 } // end of media query
 
 
+
+
 @media only screen and (min-width: 992px) {
 	// styles in 768up.less
-	@import "_992up.less";
+	@import "_md-992up.less";
 } // end of media query
 
 
 @media only screen and (min-width: 1200px) {
 
-	@import "_1200up.less";
+	@import "_lg-1200up.less";
 
 } // end of media query
 
@@ -58,4 +62,38 @@ Want to get fancy for no good reason? Knock yourself out.
 
   // iPhone 5 or iPod Touch 5th generation styles (you can include your own file if you want)
 
+}
+
+
+.col-xs-15,
+.col-sm-15,
+.col-md-15,
+.col-lg-15 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.col-xs-15 {
+    width: 20%;
+    float: left;
+}
+@media (min-width: 768px) {
+.col-sm-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 992px) {
+    .col-md-15 {
+        width: 20%;
+        float: left;
+    }
+}
+@media (min-width: 1200px) {
+    .col-lg-15 {
+        width: 20%;
+        float: left;
+    }
 }
